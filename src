@@ -1,16 +1,14 @@
-Hash: 09e508e9a2c8bf159f99
-Version: webpack 2.1.0-beta.27
-Time: 93018ms
+Hash: 37f817b61cd1391e4c33
+Version: webpack 2.1.0-beta.25
+Time: 101108ms
      Asset     Size  Chunks             Chunk Names
-    app.js  1.91 MB       0  [emitted]  main
-app.js.map  10.4 MB       0  [emitted]  main
-    + 1252 hidden modules
-
-WARNING in DedupePlugin: This plugin was removed from webpack. remove it from configuration.
+    app.js  1.81 MB       0  [emitted]  main
+app.js.map  9.85 MB       0  [emitted]  main
+    + 1321 hidden modules
 
 WARNING in ./src/settings/SettingsUI.js
 
-/Users/boris/Code/binary/next-gen/src/settings/SettingsUI.js
+/Users/aminmarashi/code/binary-next-gen/src/settings/SettingsUI.js
   16:18  warning  'highContrast' is assigned a value but never used  no-unused-vars
 
 ✖ 1 problem (0 errors, 1 warning)
