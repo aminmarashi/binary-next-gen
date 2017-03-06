@@ -1,6 +1,6 @@
 Hash: 37f817b61cd1391e4c33
 Version: webpack 2.1.0-beta.25
-Time: 101108ms
+Time: 105169ms
      Asset     Size  Chunks             Chunk Names
     app.js  1.81 MB       0  [emitted]  main
 app.js.map  9.85 MB       0  [emitted]  main
@@ -15,8 +15,8 @@ WARNING in ./src/settings/SettingsUI.js
 
  @ ./src/settings/SettingsCard.js 1:1046-1069
  @ ./src/settings/SettingsContainer.js
- @ ./src/settings/SettingsMobile.js
- @ ./src/_routes/MobileRoutes.js
+ @ ./src/settings/SettingsPage.js
+ @ ./src/_routes/StandaloneRoutes.js
  @ ./src/_routes/index.js
  @ ./src/_store/root.js
  @ ./src/index.js
